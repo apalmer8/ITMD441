@@ -23,6 +23,15 @@ p {
   width: 40%;
   font-family: serif;
 }
+
+h3 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  text-align: center;
+}
+
 .body1 {
   background: rgb(50,141,168);
 }
